@@ -1,0 +1,889 @@
+{
+    "patch_number": "7.40c",
+    "patch_name": "7.40c",
+    "patch_timestamp": 1768982400,
+    "items": [
+        {
+            "ability_id": 1808,
+            "postfix_lines": 1,
+            "ability_notes": [
+                {
+                    "indent_level": 1,
+                    "note": "#DOTA_Patch_7_40c_item_angels_demise"
+                }
+            ]
+        },
+        {
+            "ability_id": 1107,
+            "ability_notes": [
+                {
+                    "indent_level": 1,
+                    "note": "#DOTA_Patch_7_40c_item_phylactery"
+                },
+                {
+                    "indent_level": 1,
+                    "note": "#DOTA_Patch_7_40c_item_phylactery_2"
+                }
+            ]
+        }
+    ],
+    "heroes": [
+        {
+            "hero_id": 2,
+            "hero_notes": [
+                {
+                    "indent_level": 1,
+                    "note": "#DOTA_Patch_7_40c_axe",
+                    "icon": "strength"
+                }
+            ],
+            "talent_notes": [
+                {
+                    "indent_level": 1,
+                    "note": "#DOTA_Patch_7_40c_axe_talent"
+                }
+            ]
+        },
+        {
+            "hero_id": 4,
+            "talent_notes": [
+                {
+                    "indent_level": 1,
+                    "note": "#DOTA_Patch_7_40c_bloodseeker_talent"
+                },
+                {
+                    "indent_level": 1,
+                    "note": "#DOTA_Patch_7_40c_bloodseeker_talent_2"
+                },
+                {
+                    "indent_level": 1,
+                    "note": "#DOTA_Patch_7_40c_bloodseeker_talent_3"
+                }
+            ],
+            "abilities": [
+                {
+                    "ability_id": 5015,
+                    "ability_notes": [
+                        {
+                            "indent_level": 1,
+                            "note": "#DOTA_Patch_7_40c_bloodseeker_bloodseeker_bloodrage"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "hero_id": 6,
+            "talent_notes": [
+                {
+                    "indent_level": 1,
+                    "note": "#DOTA_Patch_7_40c_drow_ranger_talent"
+                }
+            ]
+        },
+        {
+            "hero_id": 7,
+            "abilities": [
+                {
+                    "ability_id": 5023,
+                    "ability_notes": [
+                        {
+                            "indent_level": 1,
+                            "note": "#DOTA_Patch_7_40c_earthshaker_earthshaker_fissure"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "hero_id": 12,
+            "abilities": [
+                {
+                    "ability_id": 1449,
+                    "ability_notes": [
+                        {
+                            "indent_level": 1,
+                            "note": "#DOTA_Patch_7_40c_phantom_lancer_phantom_lancer_illusory_armaments",
+                            "info": "#DOTA_Patch_7_40c_phantom_lancer_phantom_lancer_illusory_armaments_info"
+                        }
+                    ]
+                },
+                {
+                    "ability_id": 5066,
+                    "ability_notes": [
+                        {
+                            "indent_level": 1,
+                            "note": "#DOTA_Patch_7_40c_phantom_lancer_phantom_lancer_doppelwalk"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "hero_id": 14,
+            "abilities": [
+                {
+                    "ability_id": 5074,
+                    "ability_notes": [
+                        {
+                            "indent_level": 1,
+                            "note": "#DOTA_Patch_7_40c_pudge_pudge_flesh_heap"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "hero_id": 28,
+            "hero_notes": [
+                {
+                    "indent_level": 1,
+                    "note": "#DOTA_Patch_7_40c_slardar",
+                    "icon": "strength"
+                }
+            ],
+            "talent_notes": [
+                {
+                    "indent_level": 1,
+                    "note": "#DOTA_Patch_7_40c_slardar_talent"
+                }
+            ]
+        },
+        {
+            "hero_id": 29,
+            "hero_notes": [
+                {
+                    "indent_level": 1,
+                    "note": "#DOTA_Patch_7_40c_tidehunter",
+                    "icon": "strength"
+                },
+                {
+                    "indent_level": 1,
+                    "note": "#DOTA_Patch_7_40c_tidehunter_2",
+                    "icon": "damage"
+                }
+            ]
+        },
+        {
+            "hero_id": 44,
+            "talent_notes": [
+                {
+                    "indent_level": 1,
+                    "note": "#DOTA_Patch_7_40c_phantom_assassin_talent"
+                }
+            ]
+        },
+        {
+            "hero_id": 47,
+            "talent_notes": [
+                {
+                    "indent_level": 1,
+                    "note": "#DOTA_Patch_7_40c_viper_talent"
+                },
+                {
+                    "indent_level": 1,
+                    "note": "#DOTA_Patch_7_40c_viper_talent_2"
+                }
+            ],
+            "abilities": [
+                {
+                    "ability_id": 5220,
+                    "ability_notes": [
+                        {
+                            "indent_level": 1,
+                            "note": "#DOTA_Patch_7_40c_viper_viper_corrosive_skin"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "hero_id": 53,
+            "abilities": [
+                {
+                    "ability_id": 5247,
+                    "ability_notes": [
+                        {
+                            "indent_level": 1,
+                            "note": "#DOTA_Patch_7_40c_furion_furion_force_of_nature"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "hero_id": 55,
+            "hero_notes": [
+                {
+                    "indent_level": 1,
+                    "note": "#DOTA_Patch_7_40c_dark_seer",
+                    "icon": "armor"
+                }
+            ]
+        },
+        {
+            "hero_id": 56,
+            "talent_notes": [
+                {
+                    "indent_level": 1,
+                    "note": "#DOTA_Patch_7_40c_clinkz_talent"
+                },
+                {
+                    "indent_level": 1,
+                    "note": "#DOTA_Patch_7_40c_clinkz_talent_2"
+                }
+            ],
+            "abilities": [
+                {
+                    "ability_id": 5261,
+                    "ability_notes": [
+                        {
+                            "indent_level": 1,
+                            "note": "#DOTA_Patch_7_40c_clinkz_clinkz_wind_walk",
+                            "info": "#DOTA_Patch_7_40c_clinkz_clinkz_wind_walk_info"
+                        },
+                        {
+                            "indent_level": 1,
+                            "note": "#DOTA_Patch_7_40c_clinkz_clinkz_wind_walk_2"
+                        },
+                        {
+                            "indent_level": 2,
+                            "note": "#DOTA_Patch_7_40c_clinkz_clinkz_wind_walk_3",
+                            "aghanims": "scepter"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "hero_id": 59,
+            "subsections": [
+                {
+                    "title": "#DOTA_Tooltip_Facet_huskar_cauterize",
+                    "style": "hero_facet",
+                    "facet": "huskar_cauterize",
+                    "facet_icon": "broken_chain",
+                    "facet_color": "Red0",
+                    "abilities": [
+                        {
+                            "ability_id": 5273,
+                            "ability_notes": [
+                                {
+                                    "indent_level": 1,
+                                    "note": "#DOTA_Patch_7_40c_huskar_hero_facet_3_huskar_berserkers_blood"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "hero_id": 61,
+            "subsections": [
+                {
+                    "title": "#DOTA_Tooltip_Facet_broodmother_necrotic_webs",
+                    "style": "hero_facet",
+                    "facet": "broodmother_necrotic_webs",
+                    "facet_icon": "web",
+                    "facet_color": "Gray0",
+                    "abilities": [
+                        {
+                            "ability_id": 5280,
+                            "ability_notes": [
+                                {
+                                    "indent_level": 1,
+                                    "note": "#DOTA_Patch_7_40c_broodmother_hero_facet_1_broodmother_spin_web"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "talent_notes": [
+                {
+                    "indent_level": 1,
+                    "note": "#DOTA_Patch_7_40c_broodmother_talent"
+                },
+                {
+                    "indent_level": 1,
+                    "note": "#DOTA_Patch_7_40c_broodmother_talent_2"
+                }
+            ],
+            "abilities": [
+                {
+                    "ability_id": 5280,
+                    "ability_notes": [
+                        {
+                            "indent_level": 1,
+                            "note": "#DOTA_Patch_7_40c_broodmother_broodmother_spin_web"
+                        }
+                    ]
+                },
+                {
+                    "ability_id": 5281,
+                    "ability_notes": [
+                        {
+                            "indent_level": 1,
+                            "note": "#DOTA_Patch_7_40c_broodmother_broodmother_incapacitating_bite"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "hero_id": 64,
+            "hero_notes": [
+                {
+                    "indent_level": 1,
+                    "note": "#DOTA_Patch_7_40c_jakiro",
+                    "icon": "intelligence"
+                },
+                {
+                    "indent_level": 1,
+                    "note": "#DOTA_Patch_7_40c_jakiro_2",
+                    "icon": "damage"
+                }
+            ],
+            "abilities": [
+                {
+                    "ability_id": 5298,
+                    "ability_notes": [
+                        {
+                            "indent_level": 1,
+                            "note": "#DOTA_Patch_7_40c_jakiro_jakiro_ice_path"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "hero_id": 65,
+            "hero_notes": [
+                {
+                    "indent_level": 1,
+                    "note": "#DOTA_Patch_7_40c_batrider",
+                    "icon": "agility"
+                },
+                {
+                    "indent_level": 1,
+                    "note": "#DOTA_Patch_7_40c_batrider_2",
+                    "icon": "damage"
+                }
+            ]
+        },
+        {
+            "hero_id": 67,
+            "hero_notes": [
+                {
+                    "indent_level": 1,
+                    "note": "#DOTA_Patch_7_40c_spectre",
+                    "icon": "strength"
+                }
+            ],
+            "talent_notes": [
+                {
+                    "indent_level": 1,
+                    "note": "#DOTA_Patch_7_40c_spectre_talent"
+                },
+                {
+                    "indent_level": 1,
+                    "note": "#DOTA_Patch_7_40c_spectre_talent_2"
+                }
+            ]
+        },
+        {
+            "hero_id": 69,
+            "abilities": [
+                {
+                    "ability_id": 5341,
+                    "ability_notes": [
+                        {
+                            "indent_level": 1,
+                            "note": "#DOTA_Patch_7_40c_doom_bringer_doom_bringer_infernal_blade"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "hero_id": 70,
+            "abilities": [
+                {
+                    "ability_id": 5359,
+                    "ability_notes": [
+                        {
+                            "indent_level": 1,
+                            "note": "#DOTA_Patch_7_40c_ursa_ursa_fury_swipes"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "hero_id": 72,
+            "hero_notes": [
+                {
+                    "indent_level": 1,
+                    "note": "#DOTA_Patch_7_40c_gyrocopter",
+                    "icon": "attack_speed"
+                },
+                {
+                    "indent_level": 1,
+                    "note": "#DOTA_Patch_7_40c_gyrocopter_2",
+                    "icon": "agility"
+                }
+            ],
+            "talent_notes": [
+                {
+                    "indent_level": 1,
+                    "note": "#DOTA_Patch_7_40c_gyrocopter_talent"
+                }
+            ]
+        },
+        {
+            "hero_id": 78,
+            "abilities": [
+                {
+                    "ability_id": 1681,
+                    "ability_notes": [
+                        {
+                            "indent_level": 1,
+                            "note": "#DOTA_Patch_7_40c_brewmaster_brewmaster_liquid_courage",
+                            "aghanims": "shard"
+                        }
+                    ]
+                },
+                {
+                    "ability_id": 5402,
+                    "ability_notes": [
+                        {
+                            "indent_level": 1,
+                            "note": "#DOTA_Patch_7_40c_brewmaster_brewmaster_drunken_brawler"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "hero_id": 79,
+            "subsections": [
+                {
+                    "title": "#DOTA_Tooltip_Facet_shadow_demon_promulgate",
+                    "style": "hero_facet",
+                    "facet": "shadow_demon_promulgate",
+                    "facet_icon": "nuke",
+                    "facet_color": "Gray0",
+                    "abilities": [
+                        {
+                            "ability_id": 1001,
+                            "ability_notes": [
+                                {
+                                    "indent_level": 1,
+                                    "note": "#DOTA_Patch_7_40c_shadow_demon_hero_facet_1_shadow_demon_disseminate"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "hero_id": 80,
+            "hero_notes": [
+                {
+                    "indent_level": 1,
+                    "note": "#DOTA_Patch_7_40c_lone_druid",
+                    "icon": "agility"
+                },
+                {
+                    "indent_level": 1,
+                    "note": "#DOTA_Patch_7_40c_lone_druid_2",
+                    "icon": "damage"
+                }
+            ],
+            "talent_notes": [
+                {
+                    "indent_level": 1,
+                    "note": "#DOTA_Patch_7_40c_lone_druid_talent"
+                }
+            ],
+            "abilities": [
+                {
+                    "ability_id": 5414,
+                    "ability_notes": [
+                        {
+                            "indent_level": 1,
+                            "note": "#DOTA_Patch_7_40c_lone_druid_lone_druid_savage_roar"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "hero_id": 82,
+            "talent_notes": [
+                {
+                    "indent_level": 1,
+                    "note": "#DOTA_Patch_7_40c_meepo_talent"
+                },
+                {
+                    "indent_level": 1,
+                    "note": "#DOTA_Patch_7_40c_meepo_talent_2"
+                }
+            ],
+            "abilities": [
+                {
+                    "ability_id": 1109,
+                    "ability_notes": [
+                        {
+                            "indent_level": 1,
+                            "note": "#DOTA_Patch_7_40c_meepo_meepo_megameepo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "hero_id": 83,
+            "abilities": [
+                {
+                    "ability_id": 5649,
+                    "ability_notes": [
+                        {
+                            "indent_level": 1,
+                            "note": "#DOTA_Patch_7_40c_treant_treant_eyes_in_the_forest"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "hero_id": 86,
+            "abilities": [
+                {
+                    "ability_id": 5448,
+                    "ability_notes": [
+                        {
+                            "indent_level": 1,
+                            "note": "#DOTA_Patch_7_40c_rubick_rubick_telekinesis"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "hero_id": 93,
+            "abilities": [
+                {
+                    "ability_id": 1693,
+                    "ability_notes": [
+                        {
+                            "indent_level": 1,
+                            "note": "#DOTA_Patch_7_40c_slark_slark_saltwater_shiv"
+                        },
+                        {
+                            "indent_level": 1,
+                            "note": "#DOTA_Patch_7_40c_slark_slark_saltwater_shiv_2"
+                        },
+                        {
+                            "indent_level": 1,
+                            "note": "#DOTA_Patch_7_40c_slark_slark_saltwater_shiv_3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "hero_id": 98,
+            "hero_notes": [
+                {
+                    "indent_level": 1,
+                    "note": "#DOTA_Patch_7_40c_shredder",
+                    "icon": "strength"
+                },
+                {
+                    "indent_level": 1,
+                    "note": "#DOTA_Patch_7_40c_shredder_2",
+                    "icon": "damage"
+                },
+                {
+                    "indent_level": 1,
+                    "note": "#DOTA_Patch_7_40c_shredder_3",
+                    "icon": "strength"
+                }
+            ],
+            "talent_notes": [
+                {
+                    "indent_level": 1,
+                    "note": "#DOTA_Patch_7_40c_shredder_talent"
+                }
+            ]
+        },
+        {
+            "hero_id": 102,
+            "abilities": [
+                {
+                    "ability_id": 5587,
+                    "ability_notes": [
+                        {
+                            "indent_level": 1,
+                            "note": "#DOTA_Patch_7_40c_abaddon_abaddon_frostmourne"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "hero_id": 104,
+            "abilities": [
+                {
+                    "ability_id": 5598,
+                    "ability_notes": [
+                        {
+                            "indent_level": 1,
+                            "note": "#DOTA_Patch_7_40c_legion_commander_legion_commander_duel",
+                            "aghanims": "scepter"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "hero_id": 106,
+            "abilities": [
+                {
+                    "ability_id": 5603,
+                    "ability_notes": [
+                        {
+                            "indent_level": 1,
+                            "note": "#DOTA_Patch_7_40c_ember_spirit_ember_spirit_searing_chains"
+                        },
+                        {
+                            "indent_level": 1,
+                            "note": "#DOTA_Patch_7_40c_ember_spirit_ember_spirit_searing_chains_2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "hero_id": 109,
+            "talent_notes": [
+                {
+                    "indent_level": 1,
+                    "note": "#DOTA_Patch_7_40c_terrorblade_talent"
+                }
+            ],
+            "abilities": [
+                {
+                    "ability_id": 5620,
+                    "ability_notes": [
+                        {
+                            "indent_level": 1,
+                            "note": "#DOTA_Patch_7_40c_terrorblade_terrorblade_conjure_image"
+                        }
+                    ]
+                },
+                {
+                    "ability_id": 5622,
+                    "ability_notes": [
+                        {
+                            "indent_level": 1,
+                            "note": "#DOTA_Patch_7_40c_terrorblade_terrorblade_sunder"
+                        }
+                    ]
+                },
+                {
+                    "ability_id": 699,
+                    "ability_notes": [
+                        {
+                            "indent_level": 1,
+                            "note": "#DOTA_Patch_7_40c_terrorblade_terrorblade_demon_zeal"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "hero_id": 114,
+            "talent_notes": [
+                {
+                    "indent_level": 1,
+                    "note": "#DOTA_Patch_7_40c_monkey_king_talent"
+                }
+            ],
+            "abilities": [
+                {
+                    "ability_id": 5723,
+                    "ability_notes": [
+                        {
+                            "indent_level": 1,
+                            "note": "#DOTA_Patch_7_40c_monkey_king_monkey_king_jingu_mastery"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "hero_id": 120,
+            "hero_notes": [
+                {
+                    "indent_level": 1,
+                    "note": "#DOTA_Patch_7_40c_pangolier",
+                    "icon": "strength"
+                }
+            ],
+            "abilities": [
+                {
+                    "ability_id": 1412,
+                    "ability_notes": [
+                        {
+                            "indent_level": 1,
+                            "note": "#DOTA_Patch_7_40c_pangolier_pangolier_fortune_favors_the_bold"
+                        }
+                    ]
+                },
+                {
+                    "ability_id": 6344,
+                    "ability_notes": [
+                        {
+                            "indent_level": 1,
+                            "note": "#DOTA_Patch_7_40c_pangolier_pangolier_swashbuckle"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "hero_id": 121,
+            "hero_notes": [
+                {
+                    "indent_level": 1,
+                    "note": "#DOTA_Patch_7_40c_grimstroke",
+                    "icon": "damage"
+                },
+                {
+                    "indent_level": 1,
+                    "note": "#DOTA_Patch_7_40c_grimstroke_2",
+                    "icon": "damage"
+                }
+            ],
+            "talent_notes": [
+                {
+                    "indent_level": 1,
+                    "note": "#DOTA_Patch_7_40c_grimstroke_talent"
+                }
+            ],
+            "abilities": [
+                {
+                    "ability_id": 8007,
+                    "ability_notes": [
+                        {
+                            "indent_level": 1,
+                            "note": "#DOTA_Patch_7_40c_grimstroke_grimstroke_spirit_walk"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "hero_id": 131,
+            "subsections": [
+                {
+                    "title": "#DOTA_Tooltip_Facet_ringmaster_carny_classics",
+                    "style": "hero_facet",
+                    "facet": "ringmaster_carny_classics",
+                    "facet_icon": "whoopee_cushion",
+                    "facet_color": "Yellow1",
+                    "abilities": [
+                        {
+                            "ability_id": 390,
+                            "ability_notes": [
+                                {
+                                    "indent_level": 1,
+                                    "note": "#DOTA_Patch_7_40c_ringmaster_hero_facet_2_ringmaster_whoopee_cushion"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "hero_notes": [
+                {
+                    "indent_level": 1,
+                    "note": "#DOTA_Patch_7_40c_ringmaster",
+                    "icon": "agility"
+                },
+                {
+                    "indent_level": 1,
+                    "note": "#DOTA_Patch_7_40c_ringmaster_2",
+                    "icon": "agility"
+                }
+            ]
+        },
+        {
+            "hero_id": 155,
+            "hero_notes": [
+                {
+                    "indent_level": 1,
+                    "note": "#DOTA_Patch_7_40c_largo"
+                },
+                {
+                    "indent_level": 1,
+                    "note": "#DOTA_Patch_7_40c_largo_2",
+                    "icon": "intelligence"
+                }
+            ],
+            "abilities": [
+                {
+                    "ability_id": 1660,
+                    "ability_notes": [
+                        {
+                            "indent_level": 1,
+                            "note": "#DOTA_Patch_7_40c_largo_largo_frogstomp"
+                        }
+                    ]
+                },
+                {
+                    "ability_id": 1662,
+                    "ability_notes": [
+                        {
+                            "indent_level": 1,
+                            "note": "#DOTA_Patch_7_40c_largo_largo_amphibian_rhapsody"
+                        },
+                        {
+                            "indent_level": 1,
+                            "note": "#DOTA_Patch_7_40c_largo_largo_amphibian_rhapsody_2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "hero_id": 1961,
+            "abilities": [
+                {
+                    "ability_id": 1343,
+                    "ability_notes": [
+                        {
+                            "indent_level": 1,
+                            "note": "#DOTA_Patch_7_40c_druid_bear1_lone_druid_spirit_bear_return",
+                            "info": "#DOTA_Patch_7_40c_druid_bear1_lone_druid_spirit_bear_return_info"
+                        }
+                    ]
+                },
+                {
+                    "ability_id": 5687,
+                    "ability_notes": [
+                        {
+                            "indent_level": 1,
+                            "note": "#DOTA_Patch_7_40c_druid_bear1_lone_druid_savage_roar_bear"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "success": true
+}
