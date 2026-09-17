@@ -279,12 +279,12 @@
             "hero_notes": [
                 {
                     "indent_level": 1,
-                    "note": "#DOTA_Patch_7_41f_lina",
+                    "note": "Base Intelligence decreased from 30 to 28",
                     "icon": "intelligence"
                 },
                 {
                     "indent_level": 2,
-                    "note": "#DOTA_Patch_7_41f_lina_2",
+                    "note": "Damage at level 1 decreased from 51-59 to 49-57",
                     "icon": "damage"
                 }
             ],
@@ -294,11 +294,11 @@
                     "ability_notes": [
                         {
                             "indent_level": 1,
-                            "note": "#DOTA_Patch_7_41f_lina_lina_fiery_soul"
+                            "note": "Attack Speed Bonus decreased from 8/16/24/32 to 7/14/21/28"
                         },
                         {
                             "indent_level": 1,
-                            "note": "#DOTA_Patch_7_41f_lina_lina_fiery_soul_2"
+                            "note": "Duration decreased from 18s to 16s"
                         }
                     ]
                 }
@@ -309,7 +309,7 @@
             "hero_notes": [
                 {
                     "indent_level": 1,
-                    "note": "#DOTA_Patch_7_41f_slardar",
+                    "note": "Base Health Regen decreased by 0.25",
                     "icon": "health_regen"
                 }
             ],
@@ -319,7 +319,7 @@
                     "ability_notes": [
                         {
                             "indent_level": 1,
-                            "note": "#DOTA_Patch_7_41f_slardar_slardar_slithereen_crush"
+                            "note": "Damage decreased from 75/150/225/300 to 60/140/220/300"
                         }
                     ]
                 }
@@ -330,7 +330,7 @@
             "talent_notes": [
                 {
                     "indent_level": 1,
-                    "note": "#DOTA_Patch_7_41f_enigma_talent"
+                    "note": "Level 20 Talent Eidolon Damage decreased from +40 to +30"
                 }
             ],
             "abilities": [
@@ -339,7 +339,7 @@
                     "ability_notes": [
                         {
                             "indent_level": 1,
-                            "note": "#DOTA_Patch_7_41f_enigma_enigma_demonic_conversion"
+                            "note": "Eidolon Attack Range decreased from 425/450/475/500 to 380/420/460/500"
                         }
                     ]
                 },
@@ -348,7 +348,7 @@
                     "ability_notes": [
                         {
                             "indent_level": 1,
-                            "note": "#DOTA_Patch_7_41f_enigma_enigma_black_hole",
+                            "note": "Aghanim's Scepter pull speed decreased from 175 to 150",
                             "aghanims": "scepter"
                         }
                     ]
@@ -363,7 +363,7 @@
                     "ability_notes": [
                         {
                             "indent_level": 1,
-                            "note": "#DOTA_Patch_7_41f_necrolyte_necrolyte_sadist"
+                            "note": "Hero Kill Multiplier decreased from 6 to 4"
                         }
                     ]
                 },
@@ -372,7 +372,7 @@
                     "ability_notes": [
                         {
                             "indent_level": 1,
-                            "note": "#DOTA_Patch_7_41f_necrolyte_necrolyte_ghost_shroud"
+                            "note": "Restoration Amplification decreased from 55/65/75/85% to 45/55/65/75%"
                         }
                     ]
                 }
@@ -383,7 +383,7 @@
             "hero_notes": [
                 {
                     "indent_level": 1,
-                    "note": "#DOTA_Patch_7_41f_warlock",
+                    "note": "Base Attack Speed increased from 90 to 95",
                     "icon": "attack_speed"
                 }
             ]
@@ -396,11 +396,11 @@
                     "ability_notes": [
                         {
                             "indent_level": 1,
-                            "note": "#DOTA_Patch_7_41f_rattletrap_rattletrap_power_cogs"
+                            "note": "Mana Cost increased from 75 to 90"
                         },
                         {
                             "indent_level": 1,
-                            "note": "#DOTA_Patch_7_41f_rattletrap_rattletrap_power_cogs_2"
+                            "note": "Knockback Duration decreased from 0.8s to 0.7s"
                         }
                     ]
                 }
@@ -411,7 +411,7 @@
             "talent_notes": [
                 {
                     "indent_level": 1,
-                    "note": "#DOTA_Patch_7_41f_life_stealer_talent"
+                    "note": "Level 10 Talent Movement Speed decreased from +20 to +15"
                 }
             ],
             "abilities": [
@@ -420,7 +420,7 @@
                     "ability_notes": [
                         {
                             "indent_level": 1,
-                            "note": "#DOTA_Patch_7_41f_life_stealer_life_stealer_rage"
+                            "note": "Cooldown increased from 20/19/18/17s to 21/20/19/18s"
                         }
                     ]
                 },
@@ -429,7 +429,7 @@
                     "ability_notes": [
                         {
                             "indent_level": 1,
-                            "note": "#DOTA_Patch_7_41f_life_stealer_life_stealer_infest",
+                            "note": "Aghanim's Scepter Enemy Duration decreased from 5s to 4s",
                             "aghanims": "scepter"
                         }
                     ]
@@ -441,17 +441,17 @@
             "hero_notes": [
                 {
                     "indent_level": 1,
-                    "note": "#DOTA_Patch_7_41f_huskar",
+                    "note": "Base Strength decreased from 23 to 22",
                     "icon": "strength"
                 },
                 {
                     "indent_level": 2,
-                    "note": "#DOTA_Patch_7_41f_huskar_2",
+                    "note": "Damage at level 1 decreased from 44-49 to 43-48",
                     "icon": "damage"
                 },
                 {
                     "indent_level": 1,
-                    "note": "#DOTA_Patch_7_41f_huskar_3",
+                    "note": "Strength gain increased from 3.3 to 3.4",
                     "icon": "strength"
                 }
             ]
@@ -475,15 +475,15 @@
             "talent_notes": [
                 {
                     "indent_level": 1,
-                    "note": "#DOTA_Patch_7_41f_bounty_hunter_talent"
+                    "note": "Level 10 Talent Shuriken Toss Slow decreased from +0.6s to +0.35s"
                 },
                 {
                     "indent_level": 1,
-                    "note": "#DOTA_Patch_7_41f_bounty_hunter_talent_2"
+                    "note": "Level 20 Talent Track Grants Shared Vision replaced with +190 Shuriken Toss Damage"
                 },
                 {
                     "indent_level": 1,
-                    "note": "#DOTA_Patch_7_41f_bounty_hunter_talent_3"
+                    "note": "Level 25 Talent +250 Shuriken Toss Damage replaced with Track Grants Shared Vision"
                 }
             ],
             "abilities": [
@@ -492,11 +492,11 @@
                     "ability_notes": [
                         {
                             "indent_level": 1,
-                            "note": "#DOTA_Patch_7_41f_bounty_hunter_bounty_hunter_track"
+                            "note": "Self bonus gold decreased from 130/225/320 to 80/160/240"
                         },
                         {
                             "indent_level": 1,
-                            "note": "#DOTA_Patch_7_41f_bounty_hunter_bounty_hunter_track_2"
+                            "note": "Allies bonus gold decreased from 50/90/130 to 40/80/120"
                         }
                     ]
                 }
@@ -507,12 +507,12 @@
             "hero_notes": [
                 {
                     "indent_level": 1,
-                    "note": "#DOTA_Patch_7_41f_batrider",
+                    "note": "Intelligence gain increased from 2.9 to 3.2",
                     "icon": "intelligence"
                 },
                 {
                     "indent_level": 2,
-                    "note": "#DOTA_Patch_7_41f_batrider_2",
+                    "note": "Damage gain per level increased from 3.5 to 3.6",
                     "icon": "damage"
                 }
             ]
@@ -522,7 +522,7 @@
             "hero_notes": [
                 {
                     "indent_level": 1,
-                    "note": "#DOTA_Patch_7_41f_chen",
+                    "note": "Strength gain increased from 2.0 to 2.2",
                     "icon": "strength"
                 }
             ],
@@ -532,7 +532,7 @@
                     "ability_notes": [
                         {
                             "indent_level": 1,
-                            "note": "#DOTA_Patch_7_41f_chen_chen_zealot"
+                            "note": "Zealot respawn time changed from 60s to 60s - 1s per hero level"
                         }
                     ]
                 }
@@ -546,8 +546,8 @@
                     "ability_notes": [
                         {
                             "indent_level": 1,
-                            "note": "#DOTA_Patch_7_41f_spectre_spectre_desolate",
-                            "info": "#DOTA_Patch_7_41f_spectre_spectre_desolate_info"
+                            "note": "Damage decreased from 23 + 2 per level to 23.5 + 1.5 per level",
+                            "info": "From 25-83 to 25-68.5"
                         }
                     ]
                 }
@@ -561,7 +561,7 @@
                     "ability_notes": [
                         {
                             "indent_level": 1,
-                            "note": "#DOTA_Patch_7_41f_ursa_ursa_maul"
+                            "note": "Health As Damage increased from 1.25% to 1.75%"
                         }
                     ]
                 }
@@ -575,7 +575,7 @@
                     "ability_notes": [
                         {
                             "indent_level": 1,
-                            "note": "#DOTA_Patch_7_41f_invoker_invoker_cold_snap"
+                            "note": "Cooldown increased from 18s to 19s"
                         }
                     ]
                 },
@@ -584,7 +584,7 @@
                     "ability_notes": [
                         {
                             "indent_level": 1,
-                            "note": "#DOTA_Patch_7_41f_invoker_invoker_ghost_walk",
+                            "note": "Aghanim's Shard no longer applies damage to non-Hero units",
                             "aghanims": "shard"
                         }
                     ]
@@ -599,7 +599,7 @@
                     "ability_notes": [
                         {
                             "indent_level": 1,
-                            "note": "#DOTA_Patch_7_41f_lone_druid_lone_druid_entangle"
+                            "note": "Stack Duration decreased from 10s to 7/8/9/10s"
                         }
                     ]
                 }
@@ -610,14 +610,14 @@
             "hero_notes": [
                 {
                     "indent_level": 1,
-                    "note": "#DOTA_Patch_7_41f_treant",
+                    "note": "Base Intelligence decreased from 20 to 17",
                     "icon": "intelligence"
                 }
             ],
             "talent_notes": [
                 {
                     "indent_level": 1,
-                    "note": "#DOTA_Patch_7_41f_treant_talent"
+                    "note": "Level 10 Talent +3 Living Armor Heal per Second replaced with +3s Living Armor Duration"
                 }
             ],
             "abilities": [
@@ -626,7 +626,7 @@
                     "ability_notes": [
                         {
                             "indent_level": 1,
-                            "note": "#DOTA_Patch_7_41f_treant_treant_natures_guise"
+                            "note": "Invisibility linger when leaving trees decreased from 2s to 1s"
                         }
                     ]
                 },
@@ -635,11 +635,11 @@
                     "ability_notes": [
                         {
                             "indent_level": 1,
-                            "note": "#DOTA_Patch_7_41f_treant_treant_leech_seed"
+                            "note": "Now costs 35 mana"
                         },
                         {
                             "indent_level": 1,
-                            "note": "#DOTA_Patch_7_41f_treant_treant_leech_seed_2"
+                            "note": "Damage to Healing rescaled from 20% to 10/15/20/25%"
                         }
                     ]
                 },
@@ -648,7 +648,7 @@
                     "ability_notes": [
                         {
                             "indent_level": 1,
-                            "note": "#DOTA_Patch_7_41f_treant_treant_living_armor"
+                            "note": "Minimum damage block decreased from 20 to 10"
                         }
                     ]
                 }
@@ -659,7 +659,7 @@
             "hero_notes": [
                 {
                     "indent_level": 1,
-                    "note": "#DOTA_Patch_7_41f_undying",
+                    "note": "Base Health Regen decreased by 0.25",
                     "icon": "health_regen"
                 }
             ],
@@ -669,7 +669,7 @@
                     "ability_notes": [
                         {
                             "indent_level": 1,
-                            "note": "#DOTA_Patch_7_41f_undying_undying_decay"
+                            "note": "Mana Cost increased from 100 to 110"
                         }
                     ]
                 }
@@ -680,12 +680,12 @@
             "hero_notes": [
                 {
                     "indent_level": 1,
-                    "note": "#DOTA_Patch_7_41f_disruptor",
+                    "note": "Base Intelligence increased from 20 to 21",
                     "icon": "intelligence"
                 },
                 {
                     "indent_level": 2,
-                    "note": "#DOTA_Patch_7_41f_disruptor_2",
+                    "note": "Damage at level 1 increased from 47-51 to 48-52",
                     "icon": "damage"
                 }
             ]
@@ -695,7 +695,7 @@
             "hero_notes": [
                 {
                     "indent_level": 1,
-                    "note": "#DOTA_Patch_7_41f_keeper_of_the_light",
+                    "note": "Base Attack Speed decreased from 100 to 90",
                     "icon": "attack_speed"
                 }
             ],
@@ -705,7 +705,7 @@
                     "ability_notes": [
                         {
                             "indent_level": 1,
-                            "note": "#DOTA_Patch_7_41f_keeper_of_the_light_keeper_of_the_light_chakra_magic"
+                            "note": "Cooldown Reduction decreased from 3/4/5/6s to 2.5/3.5/4.5/5.5s"
                         }
                     ]
                 },
@@ -714,11 +714,11 @@
                     "ability_notes": [
                         {
                             "indent_level": 1,
-                            "note": "#DOTA_Patch_7_41f_keeper_of_the_light_keeper_of_the_light_spirit_form"
+                            "note": "Illuminate Heal decreased from 70% to 60%"
                         },
                         {
                             "indent_level": 2,
-                            "note": "#DOTA_Patch_7_41f_keeper_of_the_light_keeper_of_the_light_spirit_form_2",
+                            "note": "Illuminate Heal with Aghanim's Shard unchanged at 100%",
                             "aghanims": "shard"
                         }
                     ]
@@ -730,7 +730,7 @@
             "talent_notes": [
                 {
                     "indent_level": 1,
-                    "note": "#DOTA_Patch_7_41f_wisp_talent"
+                    "note": "Level 15 Talent Spirits Damage decreased from +50% to +40%"
                 }
             ]
         },
@@ -739,17 +739,17 @@
             "hero_notes": [
                 {
                     "indent_level": 1,
-                    "note": "#DOTA_Patch_7_41f_centaur",
+                    "note": "Base Damage decreased by 2",
                     "icon": "damage"
                 },
                 {
                     "indent_level": 2,
-                    "note": "#DOTA_Patch_7_41f_centaur_2",
+                    "note": "Damage at level 1 decreased from 64-66 to 62-64",
                     "icon": "damage"
                 },
                 {
                     "indent_level": 1,
-                    "note": "#DOTA_Patch_7_41f_centaur_3",
+                    "note": "Base Movement Speed decreased from 300 to 295",
                     "icon": "movement"
                 }
             ],
@@ -759,7 +759,7 @@
                     "ability_notes": [
                         {
                             "indent_level": 1,
-                            "note": "#DOTA_Patch_7_41f_centaur_centaur_mount"
+                            "note": "Cast Range decreased from 250 to 200"
                         }
                     ]
                 }
@@ -770,12 +770,12 @@
             "hero_notes": [
                 {
                     "indent_level": 1,
-                    "note": "#DOTA_Patch_7_41f_ember_spirit",
+                    "note": "Base Agility decreased from 22 to 21",
                     "icon": "agility"
                 },
                 {
                     "indent_level": 2,
-                    "note": "#DOTA_Patch_7_41f_ember_spirit_2",
+                    "note": "Damage at level 1 decreased from 52-56 to 51-55",
                     "icon": "damage"
                 }
             ]
@@ -785,22 +785,22 @@
             "hero_notes": [
                 {
                     "indent_level": 1,
-                    "note": "#DOTA_Patch_7_41f_earth_spirit",
+                    "note": "#Base Attack Speed decreased from 100 to 95",
                     "icon": "attack_speed"
                 }
             ],
             "talent_notes": [
                 {
                     "indent_level": 1,
-                    "note": "#DOTA_Patch_7_41f_earth_spirit_talent"
+                    "note": "#Level 20 Talent +25% Magnetize Damage & Duration replaced with +35 Magnetize Damage Per Second"
                 },
                 {
                     "indent_level": 1,
-                    "note": "#DOTA_Patch_7_41f_earth_spirit_talent_2"
+                    "note": "Level 20 Talent +175% Rolling Boulder Damage from Strength replaced with +200 Geomagnetic Grip Remnant Damage"
                 },
                 {
                     "indent_level": 1,
-                    "note": "#DOTA_Patch_7_41f_earth_spirit_talent_3"
+                    "note": "Level 25 Talent +250 Geomagnetic Grip Remnant Damage replaced with +250% Rolling Boulder Damage from Strength"
                 }
             ],
             "abilities": [
@@ -809,11 +809,11 @@
                     "ability_notes": [
                         {
                             "indent_level": 1,
-                            "note": "#DOTA_Patch_7_41f_earth_spirit_earth_spirit_stone_caller"
+                            "note": "Charges changed from (7 + 1 per 4 levels) to (7 + 1 per 5 levels)"
                         },
                         {
                             "indent_level": 2,
-                            "note": "#DOTA_Patch_7_41f_earth_spirit_earth_spirit_stone_caller_2"
+                            "note": "Max charges decreased from 14 at level 28 to 13 at level 30"
                         }
                     ]
                 }
@@ -827,7 +827,7 @@
                     "ability_notes": [
                         {
                             "indent_level": 1,
-                            "note": "#DOTA_Patch_7_41f_abyssal_underlord_abyssal_underlord_pit_of_malice"
+                            "note": "No longer upgraded with Aghanim's Scepter"
                         }
                     ]
                 },
@@ -836,7 +836,7 @@
                     "ability_notes": [
                         {
                             "indent_level": 1,
-                            "note": "#DOTA_Patch_7_41f_abyssal_underlord_abyssal_underlord_dark_portal",
+                            "note": "Aghanim's Scepter Cooldown decreased from 100/95/90s to 90/85/80s",
                             "aghanims": "scepter"
                         }
                     ]
@@ -851,7 +851,7 @@
                     "ability_notes": [
                         {
                             "indent_level": 1,
-                            "note": "#DOTA_Patch_7_41f_winter_wyvern_winter_wyvern_arctic_burn"
+                            "note": "Cooldown increased from 26/24/22/20s to 29/26/23/20s"
                         }
                     ]
                 },
@@ -860,7 +860,7 @@
                     "ability_notes": [
                         {
                             "indent_level": 1,
-                            "note": "#DOTA_Patch_7_41f_winter_wyvern_winter_wyvern_cold_embrace"
+                            "note": "Max HP Heal per second decreased from 2.25/3/3.75/4.5% to 1.5/2.5/3.5/4.5%"
                         }
                     ]
                 }
@@ -871,7 +871,7 @@
             "hero_notes": [
                 {
                     "indent_level": 1,
-                    "note": "#DOTA_Patch_7_41f_hoodwink",
+                    "note": "Base Strength decreased from 17 to 16",
                     "icon": "strength"
                 }
             ]
@@ -881,7 +881,7 @@
             "hero_notes": [
                 {
                     "indent_level": 1,
-                    "note": "#DOTA_Patch_7_41f_mars",
+                    "note": "Base Armor increased by 1",
                     "icon": "armor"
                 }
             ]
@@ -894,7 +894,7 @@
                     "ability_notes": [
                         {
                             "indent_level": 1,
-                            "note": "#DOTA_Patch_7_41f_marci_marci_companion_run"
+                            "note": "Base Armor increased by 1"
                         }
                     ]
                 }
@@ -905,19 +905,19 @@
             "hero_notes": [
                 {
                     "indent_level": 1,
-                    "note": "#DOTA_Patch_7_41f_kez",
+                    "note": "Base Damage decreased by 1",
                     "icon": "damage"
                 },
                 {
                     "indent_level": 2,
-                    "note": "#DOTA_Patch_7_41f_kez_2",
+                    "note": "Damage at level 1 decreased from 50-56 to 49-55",
                     "icon": "damage"
                 }
             ],
             "talent_notes": [
                 {
                     "indent_level": 1,
-                    "note": "#DOTA_Patch_7_41f_kez_talent"
+                    "note": "Level 20 Talent Kazurai Katana Damage Per Second decreased from +4% to +3.5%"
                 }
             ]
         },
@@ -929,7 +929,7 @@
                     "ability_notes": [
                         {
                             "indent_level": 1,
-                            "note": "#DOTA_Patch_7_41f_largo_largo_song_good_vibrations"
+                            "note": "Heal rescaled from 34/56/78 to 30/55/80"
                         }
                     ]
                 }
